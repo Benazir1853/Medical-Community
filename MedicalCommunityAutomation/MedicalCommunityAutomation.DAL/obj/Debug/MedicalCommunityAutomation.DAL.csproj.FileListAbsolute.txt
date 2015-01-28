@@ -5,3 +5,10 @@ D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomatio
 D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\obj\Debug\MedicalCommunityAutomation.DAL.csprojResolveAssemblyReference.cache
 D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\obj\Debug\MedicalCommunityAutomation.DAL.dll
 D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\obj\Debug\MedicalCommunityAutomation.DAL.pdb
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\bin\Debug\MedicalCommunityAutomation.DAL.dll
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\bin\Debug\MedicalCommunityAutomation.DAL.pdb
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\bin\Debug\MedicalCommunityAutomation.DAO.dll
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\bin\Debug\MedicalCommunityAutomation.DAO.pdb
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\obj\Debug\MedicalCommunityAutomation.DAL.csprojResolveAssemblyReference.cache
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\obj\Debug\MedicalCommunityAutomation.DAL.dll
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAL\obj\Debug\MedicalCommunityAutomation.DAL.pdb

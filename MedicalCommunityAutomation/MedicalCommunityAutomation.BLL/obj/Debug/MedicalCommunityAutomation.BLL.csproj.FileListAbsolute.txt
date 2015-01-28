@@ -7,3 +7,12 @@ D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomatio
 D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\obj\Debug\MedicalCommunityAutomation.BLL.csprojResolveAssemblyReference.cache
 D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\obj\Debug\MedicalCommunityAutomation.BLL.dll
 D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\obj\Debug\MedicalCommunityAutomation.BLL.pdb
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\bin\Debug\MedicalCommunityAutomation.BLL.dll
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\bin\Debug\MedicalCommunityAutomation.BLL.pdb
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\bin\Debug\MedicalCommunityAutomation.DAL.dll
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\bin\Debug\MedicalCommunityAutomation.DAO.dll
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\bin\Debug\MedicalCommunityAutomation.DAL.pdb
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\bin\Debug\MedicalCommunityAutomation.DAO.pdb
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\obj\Debug\MedicalCommunityAutomation.BLL.csprojResolveAssemblyReference.cache
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\obj\Debug\MedicalCommunityAutomation.BLL.dll
+D:\asp.net\Medical-Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.BLL\obj\Debug\MedicalCommunityAutomation.BLL.pdb

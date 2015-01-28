@@ -43,7 +43,9 @@
   <ItemGroup>
     <Compile Include="DbGateway.cs" />
     <Compile Include="DoctorDbGateway.cs" />
+    <Compile Include="MedicineDbGateway.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StockDbGateway.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MedicalCommunityAutomation.DAO\MedicalCommunityAutomation.DAO.csproj">
