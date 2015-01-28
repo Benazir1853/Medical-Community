@@ -1,0 +1,5 @@
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAO\bin\Debug\MedicalCommunityAutomation.DAO.dll
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAO\bin\Debug\MedicalCommunityAutomation.DAO.pdb
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAO\obj\Debug\MedicalCommunityAutomation.DAO.csprojResolveAssemblyReference.cache
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAO\obj\Debug\MedicalCommunityAutomation.DAO.dll
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation.DAO\obj\Debug\MedicalCommunityAutomation.DAO.pdb

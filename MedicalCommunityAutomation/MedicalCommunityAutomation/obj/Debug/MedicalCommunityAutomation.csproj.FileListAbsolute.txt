@@ -1,0 +1,12 @@
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll.config
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.dll
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.pdb
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.BLL.dll
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.DAO.dll
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.DAL.dll
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.BLL.pdb
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.DAO.pdb
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\bin\MedicalCommunityAutomation.DAL.pdb
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.csprojResolveAssemblyReference.cache
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.dll
+D:\asp.net\Medical Comunity\MedicalCommunityAutomation\MedicalCommunityAutomation\obj\Debug\MedicalCommunityAutomation.pdb
